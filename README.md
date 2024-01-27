@@ -10,7 +10,7 @@ Nuestra página web de videojuegos brinda información sobre los videojuegos que
 Como primer paso, realizamos bocetos a mano para definir nuestras primeras ideas de cómo queríamos que estuviera organizada nuestra página.
 
 ### Boceto 01
-![Boceto 01](.assets/img/1er-boceto.png)
+![Boceto 01](./assets/img/1er-boceto.png)
 
 ### Boceto 02
 ![Boceto 02](imagen)
