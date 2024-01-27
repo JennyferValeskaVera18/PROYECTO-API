@@ -21,9 +21,9 @@ Como primer paso, realizamos bocetos a mano para definir nuestras primeras ideas
 Después de nuestros bocetos a mano, realizamos un prototipo de alta fidelidad que, gracias a nuestro último boceto, nos permitió diseñar la estética de nuestra página de una forma más cercana a la realidad. Para esto, utilizamos Figma.
 
 ### Nuestros Prototipo
-![Prototipo de inicio](./assets/img/inico-página.png)
+![Prototipo de inicio](./assets/img/inicio-página.png)
 ![Prototipo 01-página principal](./assets/img/1era-versión-página-principal.png)
-![Prototipo final - página principal](./assets/2da-version-pagina-principal.png)
+![Prototipo final - página principal](./assets/img/2da-version-pagina-principal.png)
 
 
 ## Historias de Usuario (HU) y Criterios de Aceptación
