@@ -23,7 +23,7 @@ Después de nuestros bocetos a mano, realizamos un prototipo de alta fidelidad q
 ### Nuestros Prototipo
 ![Prototipo de inicio](./assets/img/inico-página.png)
 ![Prototipo 01-página principal](./assets/img/1era-versión-página-principal.png)
-![Prototipo final - página principal](./assets/2da-versión-página-principal.png)
+![Prototipo final - página principal](./assets/2da-version-pagina-principal.png)
 
 
 ## Historias de Usuario (HU) y Criterios de Aceptación
