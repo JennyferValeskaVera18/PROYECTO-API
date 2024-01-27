@@ -22,7 +22,7 @@ Después de nuestros bocetos a mano, realizamos un prototipo de alta fidelidad q
 
 ### Nuestro Prototipo
 *Nuestro prototipo de la página de inicio con un video de fondo:
-![Prototipo](./img/inicio-página.png)
+![Prototipo](./downloads/inicio-página.png)
 ![Prototipo](imagen)
 ![Prototipo](imagen)
 
