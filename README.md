@@ -10,21 +10,21 @@ Nuestra página web de videojuegos brinda información sobre los videojuegos que
 Como primer paso, realizamos bocetos a mano para definir nuestras primeras ideas de cómo queríamos que estuviera organizada nuestra página.
 
 ### Boceto 01
-![Boceto 01](imagen)
+![Boceto 01](./assets/img/1er-boceto.png)
 
 ### Boceto 02
-![Boceto 02](imagen)
+![Boceto 02](./assets/img/2do-boceto.png)
 
 ### Boceto 03
-![Boceto 03](imagen)
+![Boceto 03](./assets/img/3er-boceto.png)
 
 Después de nuestros bocetos a mano, realizamos un prototipo de alta fidelidad que, gracias a nuestro último boceto, nos permitió diseñar la estética de nuestra página de una forma más cercana a la realidad. Para esto, utilizamos Figma.
 
-### Nuestro Prototipo
-*Nuestro prototipo de la página de inicio con un video de fondo:
-![Prototipo](./downloads/inicio-página.png)
-![Prototipo](imagen)
-![Prototipo](imagen)
+### Nuestros Prototipo
+![Prototipo de inicio](./assets/img/inico-página.png)
+![Prototipo 01-página principal](./assets/img/1era-versión-página-principal.png)
+![Prototipo final - página principal](./assets/2da-versión-página-principal.png)
+
 
 ## Historias de Usuario (HU) y Criterios de Aceptación
 
